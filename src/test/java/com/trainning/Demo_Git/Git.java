@@ -11,6 +11,7 @@ public class Git {
 	create .gitignore file
 	-git commit -m "Message"
 	-git push origin master
-	
+	-git branch <branch name>
+	-git checkout <branch name> to switch another branch
 	*/
 }
