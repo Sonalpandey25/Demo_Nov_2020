@@ -11,6 +11,6 @@ public class Git {
 	create .gitignore file
 	-git commit -m "Message"
 	-git push origin master
-	
+	-this is branch Master now this will not save in branch A
 	*/
 }
